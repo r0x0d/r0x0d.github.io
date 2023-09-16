@@ -154,7 +154,7 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: https://i.redd.it/xek48nrorwz31.png
+      path: assets/img/favicons
     values:
       swcache: true
   - scope:
