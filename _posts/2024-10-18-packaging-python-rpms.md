@@ -1,7 +1,7 @@
 ---
 title: Packaging Python RPMs
 description: I had recently to package a python rpm for a new project I'm working. Let's go through the pain and joy of this madness.
-author: Rodolfo Olivieri
+author: r0x0d
 date: 2024-10-18 22:45:00 -0300
 categories: [Python, Packaging, RPM]
 tags: [python]
