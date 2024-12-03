@@ -1,13 +1,14 @@
 ---
+layout: post
 title: Packaging Python RPMs
 description: I had recently to package a python rpm for a new project I'm working. Let's go through the pain and joy of this madness.
 author: r0x0d
-date: 2024-10-18 22:45:00 -0300
 categories: [Python, Packaging, RPM]
 tags: [python]
 image:
   path: /assets/images/package-delivery.jpg
   alt: The exact sensation when you are building packages.
+date: 2024-10-18 22:45:00 -0300
 ---
 
 Recently I was working on a very specific task in the current project that I'm working for Red Hat, the [RHEL Lightspeed
