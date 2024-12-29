@@ -1,13 +1,15 @@
 ---
 author: r0x0d
 layout: post
-title: systemd-unit-activation-via-dbus
+slug: systemd-unit-activation-via-dbus
 title: Systemd unit activation via dbus
-description: Have you ever felt the need to activate your systemd unit on the fly via dbus publish? No? Well, I did. Let's see how this can be accomplished.
-date: 2024-12-26 22:25 -0300
-tags: 
+description: 'Have you ever felt the need to activate your systemd unit on the fly via dbus publish? No? Well, I did. Let''s see how this can be accomplished.'
+date: '2024-12-26 22:25 -0300'
+tags:
   - systemd
   - dbus
+id: 2180057
+canonical_url: 'https://r0x0d.com/posts/systemd-unit-activation-via-dbus'
 ---
 
 

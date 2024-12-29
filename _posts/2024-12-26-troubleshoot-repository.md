@@ -2,11 +2,13 @@
 author: r0x0d
 layout: post
 slug: troubleshoot-repository
-date: 2024-12-26 22:26 -0300
+date: '2024-12-26 22:26 -0300'
 title: How to keep track of day-to-day workflow problems?
-description: Troubleshooting can be difficult, but luckily we have simple ways of making it easy.
-tags: 
+description: 'Troubleshooting can be difficult, but luckily we have simple ways of making it easy.'
+tags:
   - github
+id: 2180055
+canonical_url: 'https://r0x0d.com/posts/troubleshoot-repository'
 ---
 
 TLDR; Here's the repository: https://github.com/r0x0d/troubleshoot
