@@ -4,7 +4,7 @@ layout: post
 slug: packaging-python-rpms
 title: Packaging python RPMs
 description: I had recently to package a python rpm for a new project I'm working. Let's go through the pain and joy of this madness.
-date: '2024-12-26 22:21 -0300'
+date: '2024-12-30T01:21:00Z'
 tags:
   - python
   - rpm
