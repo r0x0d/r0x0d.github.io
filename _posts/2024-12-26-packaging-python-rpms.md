@@ -4,11 +4,13 @@ layout: post
 slug: packaging-python-rpms
 title: Packaging python RPMs
 description: I had recently to package a python rpm for a new project I'm working. Let's go through the pain and joy of this madness.
-date: 2024-12-26 22:21 -0300
+date: '2024-12-26 22:21 -0300'
 tags:
   - python
   - rpm
   - building
+id: 2180056
+canonical_url: 'https://r0x0d.com/posts/packaging-python-rpms'
 ---
 
 Recently I was working on a very specific task in the current project that I'm working for Red Hat, the [RHEL Lightspeed
