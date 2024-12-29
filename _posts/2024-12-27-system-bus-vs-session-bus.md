@@ -4,10 +4,11 @@ layout: post
 slug: system-bus-vs-session-bus
 title: SystemBus vs SessionBus
 description: Do you know the difference between the two?
-date: 2024-12-27 16:07 -0300
+date: '2024-12-27 16:07 -0300'
 tags:
   - dbus
-canonical_url: https://r0x0d.com/posts/system-bus-vs-session-bus
+canonical_url: 'https://r0x0d.com/posts/system-bus-vs-session-bus'
+id: 2180970
 ---
 
 Have you ever tried to develop an entire application that relies on d-bus
