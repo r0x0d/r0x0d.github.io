@@ -4,7 +4,7 @@ layout: post
 slug: systemd-unit-activation-via-dbus
 title: Systemd unit activation via dbus
 description: 'Have you ever felt the need to activate your systemd unit on the fly via dbus publish? No? Well, I did. Let''s see how this can be accomplished.'
-date: '2024-12-30T01:25:00Z'
+date: '2024-12-26 00:00 -0300'
 tags:
   - systemd
   - dbus

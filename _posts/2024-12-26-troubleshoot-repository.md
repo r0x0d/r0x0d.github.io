@@ -2,7 +2,7 @@
 author: r0x0d
 layout: post
 slug: troubleshoot-repository
-date: '2024-12-30T01:25:00Z'
+date: '2024-12-26 00:00 -0300'
 title: How to keep track of day-to-day workflow problems?
 description: 'Troubleshooting can be difficult, but luckily we have simple ways of making it easy.'
 tags:
