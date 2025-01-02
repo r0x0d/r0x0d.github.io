@@ -1,0 +1,28 @@
+name: Sync Blog Posts to dev.to
+
+on:
+  push:
+    branches:
+      - main  # Adjust the branch as needed
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Sync posts to dev.to
+        env:
+          DEV_TO_API_KEY: ${{ secrets.DEVTO_TOKEN }}
+        run: |
+          ./tools/sync.sh
