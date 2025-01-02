@@ -7,7 +7,7 @@ API_KEY=$DEV_TO_API_KEY
 POSTS_DIR="_posts"
 
 # Dry run flag
-DRY_RUN=true
+DRY_RUN=false
 
 # Parse command line arguments
 while [[ "$#" -gt 0 ]]; do
