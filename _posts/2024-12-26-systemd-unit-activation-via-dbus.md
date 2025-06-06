@@ -188,4 +188,3 @@ That's it! Hope you liked the reading so far, and see you in the next post.
 - [systemd service docs](https://www.freedesktop.org/software/systemd/man/latest/systemd.service.html)
 - [How to define a d-bus activated systemd service?](https://stackoverflow.com/a/31725112)
 - [GH PR#72](https://github.com/rhel-lightspeed/command-line-assistant/pull/72)
-
