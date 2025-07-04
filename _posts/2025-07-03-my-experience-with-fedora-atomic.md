@@ -7,10 +7,12 @@ tags:
   - atomic
   - containers
 image:
-  path: https://fedoramagazine.org/wp-content/uploads/2017/04/fedora-atomic.png
-  alt: fedora atomic logo
+  path: assets/img/posts/fedora-atomic.png
+  alt: >
+    fedora atomic logo (image ref: https://fedoramagazine.org/upcoming-fedora-atomic-lifecycle-changes/)
 date: 2025-07-03 21:36 -0300
 ---
+
 ## Backstory
 
 I've beeng using Linux for the past couple of years now as my mainly driver.

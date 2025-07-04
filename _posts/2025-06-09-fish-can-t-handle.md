@@ -6,8 +6,9 @@ tags:
   - fish
   - debugging
 image:
-  path: https://oceanliteracy.unesco.org/wp-content/uploads/2022/06/fish-aspect-ratio-16-9-1500x844.jpeg
-  alt: lots of fishes in the ocean
+  path: assets/img/posts/ocean_fish.jpg
+  alt: >
+    lots of fishes in the ocean. (image ref: https://www.universityofcalifornia.edu/news/exit-dinosaurs-enter-fishes)
 date: 2025-06-09 11:56 -0300
 ---
 Recently I made the switch on all my devies to use the great [fish
