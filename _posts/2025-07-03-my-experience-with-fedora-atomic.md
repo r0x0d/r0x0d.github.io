@@ -3,9 +3,9 @@ author: r0x0d
 layout: post
 title: My experience with Fedora Atomic
 tags:
-- fedora
-- atomic
-- containers
+  - fedora
+  - atomic
+  - containers
 image:
   path: https://fedoramagazine.org/wp-content/uploads/2017/04/fedora-atomic.png
   alt: fedora atomic logo
